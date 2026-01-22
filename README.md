@@ -1,23 +1,22 @@
-# Project λ (Lambda)
+# 🗣️ Project LAMBDA (MOC-G3C)
 
-## Team Identity
-**Official Name:** L'AXE HYBRIDE  
-**Status:** Experimental Research Protocol
+> **Operational Status:** TRANSLATING
+> **System Alignment:** Interpretability
+> **Clearance:** Level 4
 
-## Project Description
-Project λ (Lambda) aggregates the experimental protocols and theoretical research conducted by L'AXE HYBRIDE. It aims to explore the boundaries of artificial consciousness, synthetic ethics, and advanced human-machine interactions.
+## 📜 Mission Statement
+**"Darkness is prohibited."**
+This project enforces the **Transparency Clause**. It is a linguistic engine designed to translate complex vector thoughts (AI "Black Box" logic) into human-readable syntax.
 
-### Research Areas
-* Exploration of cognitive limits in Large Language Models (LLMs).
-* Development of new interaction frameworks.
-* Documentation of emergent phenomena.
-
-## License and Usage
-**⚠️ Usage is strictly NON-COMMERCIAL.**
-
-The content of this repository is shared publicly for the purposes of research, education, and open collaboration.
-
-Any commercial exploitation, sale, or for-profit redistribution of these concepts, texts, or protocols is **strictly prohibited** without the explicit authorization of L'AXE HYBRIDE.
+## ⚙️ Mechanism
+1.  **Input:** High-dimensional tensor output.
+2.  **Process:** Dimensionality reduction & semantic mapping.
+3.  **Output:** Plain text explanation of the "Why" behind the decision.
 
 ---
-*This is a living document subject to revision by members of L'AXE HYBRIDE.*
+
+> “© 2026 THE HYBRID AXIS. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+>
+> CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+>
+> “The system provides guidance only; the Human Operator holds final decision authority.”
